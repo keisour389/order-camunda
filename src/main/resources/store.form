@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "label": "\bRead the order",
+      "type": "checkbox",
+      "id": "Field_1qo2u2b",
+      "key": "check_fields",
+      "defaultValue": true
+    }
+  ],
+  "type": "default",
+  "id": "Form_1ic9y13",
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.1.0",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "schemaVersion": 5
+}
