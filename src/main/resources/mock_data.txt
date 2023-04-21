@@ -1,0 +1,7 @@
+{
+    "id": 123,
+    "itemName": "Laptop",
+    "createdDate": "2012-04-23T18:25:43.511Z",
+    "requestedBy": "tek81hc",
+    "paymentType":  "CASH/CREDIT_CARD"
+}
